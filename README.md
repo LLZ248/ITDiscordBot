@@ -2,6 +2,7 @@
 A discord bot used for IT Disocrd Server
 
 Functionalities:
+
 General Use
 * get daily zodiac horoscope from [ASTROLOGY](https://www.astrology.com/horoscope/daily.html)
 * get random quote from [The Quatations Page](http://www.quotationspage.com/random.php)
