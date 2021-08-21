@@ -1,0 +1,290 @@
+{"ITClasses":[{
+"code":"DIP1CTS03/DIP104",
+"name":"Computer Technology Essentials",
+"lecturer":"Mr Steven Yong Yik Loong",
+"slots":[
+{"mode":"Tutorial","day":"TUESDAY","time":"2.00pm-4.00pm"},
+{"mode":"Lecture","day":"WEDNESDAY","time":"2.00pm-2.00pm"}
+]}
+,
+{
+"code":"DIP211",
+"name":"Interactive Media Applications",
+"lecturer":"Mr Steven Yong Yik Loong",
+"slots":[
+{"mode":"Lecture","day":"TUESDAY","time":"Lecture"},
+{"mode":"Tutorial","day":"THURSDAY","time":"1.30pm-3.30pm"}
+]}
+,
+{
+"code":"DIP1ITC04",
+"name":"Introduction to Networking",
+"lecturer":"Mr Navid",
+"slots":[
+{"mode":"Tutorial","day":"THURSDAY","time":"3.30pm-5.30pm"},
+{"mode":"Lecture","day":"FRIDAY","time":"9.00am-12.00pm"}
+]}
+,
+{
+"code":"BDA100/DIP222",
+"name":"Introduction to Programming/Programming Principles",
+"lecturer":"Dr Okta Nurika",
+"slots":[
+{"mode":"DIP222-Tutorial","day":"MONDAY","time":"8.00am-10.00am"},
+{"mode":"BDA100-Tutorial","day":"MONDAY","time":"10.00am-12.pm"},
+{"mode":"Lecture","day":"FRIDAY","time":"9.00am-12.00pm"}
+]}
+,
+{
+"code":"DIP1PRG11/DIP101",
+"name":"Introduction to Visual Programming",
+"lecturer":"Ms Naline Shanmugam",
+"slots":[
+{"mode":"Tutorial-Group-A","day":"MONDAY","time":"8.00am-10.00am"},
+{"mode":"Tutorial-Group-B","day":"MONDAY","time":"10.00am-12.00am"},
+{"mode":"Lecture","day":"TUESDAY","time":"9.00am-12.00pm"}
+]}
+,
+{
+"code":"BIT101/DIP200/DIP105",
+"name":"Introduction to Information Technology/Introduction to Computer Architecture",
+"lecturer":"Mr Koon Kim Peh",
+"slots":[
+{"mode":"BIT101-Tutorial","day":"THURSDAY","time":"12.00pm-2.00pm"},
+{"mode":"DIP200/DIP105-Tutorial","day":"THURSDAY","time":"2.00pm-4.00pm"},
+{"mode":"Lecture","day":"FRIDAY","time":"2.30pm-5.30pm"}
+]}
+,
+{
+"code":"DIP1SAD01/DIP103",
+"name":"Introduction to Analysis & Design",
+"lecturer":"Mr Steven Yong Yik Loong",
+"slots":[
+{"mode":"Tutorial","day":"WEDNESDAY","time":"8.00am-10.00am"},
+{"mode":"Lecture","day":"THURSDAY","time":"8.00am-11.00am"}
+]}
+,
+{
+"code":"BIT103/DIP203",
+"name":"Introduction to Database Systems/Database Concepts and Practices",
+"lecturer":"Ms Ng Shu Min",
+"slots":[
+{"mode":"BIT103-Tutorial","day":"TUESDAY","time":"2.00pm-4.00pm"},
+{"mode":"DIP203-Tutorial","day":"TUESDAY","time":"4.00pm-6.00pm"},
+{"mode":"Lecture","day":"WEDNESDAY","time":"2.00pm-5.00pm"}
+]}
+,
+{
+"code":"BIT106/DIP215",
+"name":"OO Progamming Fundamentals/Object-Oriented Programming",
+"lecturer":"Mr Kok Chye Hock",
+"slots":[
+{"mode":"BIT106-Tutorial","day":"THURSDAY","time":"11.00am-1.00pm"},
+{"mode":"DIP215-Tutorial","day":"THURSDAY","time":"1.00pm-3.00pm"},
+{"mode":"Lecture","day":"FRIDAY","time":"2.30pm-5.30pm"}
+]}
+,
+{
+"code":"BIT107/DIP206",
+"name":"Data Communications and Networking/Data Communications",
+"lecturer":"Mr Koon Kim Peh",
+"slots":[
+{"mode":"Tutorial","day":"WEDNESDAY","time":"8.00am-10.00am"},
+{"mode":"Lecture","day":"THURSDAY","time":"8.00am-11.00am"}
+]}
+,
+{
+"code":"BIT108/DIP201",
+"name":"Discrete Mathematics/Computing Mathematics",
+"lecturer":"Mr Kok Chye Hock",
+"slots":[
+{"mode":"BIT108-Tutorial","day":"MONDAY","time":"8.00am-10.00am"},
+{"mode":"DIP201-Tutorial","day":"MONDAY","time":"10.00am-12.00pm"},
+{"mode":"Lecture","day":"TUESDAY","time":"2.00pm-5.00pm"}
+]}
+,
+{
+"code":"BIT110/DIP208",
+"name":"Introduction to Operating Systems/Fundamental of Operating Systems",
+"lecturer":"Dr Abdul Qayoom",
+"slots":[
+{"mode":"Lecture","day":"MONDAY","time":"2.00pm-5.00pm"},
+{"mode":"Tutorial","day":"WEDNESDAY","time":"10.00am-12.00pm"}
+]}
+,
+{
+"code":"BIT201",
+"name":"Systems Architecture and Design",
+"lecturer":"Ms Ng Shu Min",
+"slots":[
+{"mode":"Tutorial","day":"MONDAY","time":"8.00am-10.00am"},
+{"mode":"Lecture","day":"WEDNESDAY","time":"8.00am-11.00am"}
+]}
+,
+{
+"code":"BIS301",
+"name":"Issues in Strategic Information Management",
+"lecturer":"Ms Naline Shanmugam",
+"slots":[
+{"mode":"Tutorial","day":"WEDNESDAY","time":"10.30am-12.00pm"},
+{"mode":"Lecture","day":"THURSDAY","time":"9.00am-12.00pm"}
+]}
+,
+{
+"code":"BIT203",
+"name":"Advanced OO Programming",
+"lecturer":"Mr Kok Chye Hock",
+"slots":[
+{"mode":"Tutorial","day":"MONDAY","time":"2.00pm-4.00pm"},
+{"mode":"Lecture","day":"WEDNESDAY","time":"2.00pm-5.00pm"}
+]}
+,
+{
+"code":"BIS306",
+"name":"Data Mining",
+"lecturer":"Mr Herison Surbakti",
+"slots":[
+{"mode":"Tutorial","day":"MONDAY","time":"8.30am-10.30am"},
+{"mode":"Lecture","day":"FRIDAY","time":"2.30pm-5.30pm"}
+]}
+,
+{
+"code":"BIT204",
+"name":"Advanced Networking",
+"lecturer":"Mr Navid",
+"slots":[
+{"mode":"Tutorial","day":"MONDAY","time":"10.00am-12.00pm"},
+{"mode":"Lecture","day":"TUESDAY","time":"9.00am-12.00pm"}
+]}
+,
+{
+"code":"BIT301",
+"name":"IT Project Management",
+"lecturer":"Ms Seetha Letchumi",
+"slots":[
+{"mode":"Lecture","day":"FRIDAY","time":"9.00am-12.00pm"}
+]}
+,
+{
+"code":"BIT208",
+"name":"Data Structures and Algorithms",
+"lecturer":"Dr Abdul Qayoom",
+"slots":[
+{"mode":"Lecture","day":"TUESDAY","time":"2.00pm-5.00pm"},
+{"mode":"Tutorial","day":"THURSDAY","time":"8.00am-10.00am"}
+]}
+,
+{
+"code":"BIT303",
+"name":"Computer Ethics and Cybersecurity",
+"lecturer":"Ms Anitha Velayutham",
+"slots":[
+{"mode":"Lecture","day":"MONDAY","time":"2.00pm-5.00pm"},
+{"mode":"Tutorial","day":"TUESDAY","time":"11.00am-12.30pm"}
+]}
+,
+{
+"code":"BIT210",
+"name":"Web Programming",
+"lecturer":"Dr Abdul Qayoom",
+"slots":[
+{"mode":"Tutorial","day":"MONDAY","time":"12.00pm-2.00pm"},
+{"mode":"Tutorial","day":"TUESDAY","time":"12.00pm-2.00pm"},
+{"mode":"Lecture","day":"FRIDAY","time":"9.00am-12.00pm"}
+]}
+,
+{
+"code":"BIT304",
+"name":"Final Year Project I",
+"lecturer":"Dr Fong Pui Kwan",
+"slots":[
+{"mode":"Lecture","day":"TUESDAY","time":"9.00am-11.00am"}
+]}
+,
+{
+"code":"BIT216",
+"name":"Software Engineering Principles",
+"lecturer":"Ms Seetha Letchumi",
+"slots":[
+{"mode":"Tutorial","day":"MONDAY","time":"8.30am-10.00am"},
+{"mode":"Tutorial","day":"MONDAY","time":"10.00am-12.00pm"},
+{"mode":"Lecture","day":"WEDNESDAY","time":"8.00am-11.00am"}
+]}
+,
+{
+"code":"BIT305",
+"name":"Final Year Project II",
+"lecturer":"Dr Fong Pui Kwan",
+"slots":[
+]}
+,
+{
+"code":"BIT217",
+"name":"Internet of Things",
+"lecturer":"Mr Navid",
+"slots":[
+{"mode":"Tutorial","day":"THURSDAY","time":"11.00am-1.00pm"},
+{"mode":"Lecture","day":"FRIDAY","time":"2.30pm-5.30pm"}
+]}
+,
+{
+"code":"BIT306",
+"name":"Web Technologies",
+"lecturer":"Dr Fong Pui Kwan",
+"slots":[
+{"mode":"Lecture","day":"TUESDAY","time":"2.00pm-5.00pm"},
+{"mode":"Tutorial","day":"WEDNESDAY","time":"8.30am-10.30am"}
+]}
+,
+{
+"code":"BDA202",
+"name":"Applications of Data Analytics",
+"lecturer":"Mr Herison Surbakti",
+"slots":[
+{"mode":"Lecture","day":"WEDNESDAY","time":"2.00pm-5.00pm"},
+{"mode":"Tutorial","day":"THURSDAY","time":"9.00am-11.00am"}
+]}
+,
+{
+"code":"BMC302",
+"name":"Mobile Technology Mini Project",
+"lecturer":"Dr Mustafa Muwafak",
+"slots":[
+{"mode":"Lecture+Tutorial","day":"THURSDAY","time":"9.00am-12.00pm"}
+]}
+,
+{
+"code":"BDA205",
+"name":"Statistics and Data Visualization",
+"lecturer":"Dr Mustafa Muwafak",
+"slots":[
+{"mode":"Lecture","day":"MONDAY","time":"2.00pm-5.00pm"},
+{"mode":"Tutorial","day":"TUESDAY","time":"9.00am-11.00am"}
+]}
+,
+{
+"code":"BIT310/BMC307",
+"name":"Business Development Project",
+"lecturer":"Ms Anitha Velayutham",
+"slots":[
+{"mode":"Tutorial","day":"MONDAY","time":"10.30am-12.00pm"},
+{"mode":"Lecture","day":"WEDNESDAY","time":"2.00pm-5.00pm"}
+]}
+,
+{
+"code":"BMC201",
+"name":"Mobile Communications",
+"lecturer":"Mr Navid",
+"slots":[
+]}
+,
+{
+"code":"BMC208",
+"name":"Introduction to Mobile Apps",
+"lecturer":"Dr Mustafa Muwafak",
+"slots":[
+{"mode":"Tutorial","day":"THURSDAY","time":"1.00pm-3.00pm"},
+{"mode":"Lecture","day":"FRIDAY","time":"2.30pm-5.30pm"}
+]}
+
+]}
