@@ -9,7 +9,7 @@ General Use
 * simulate dice roll
 
 IT Class use
-* get class timetable and information with class code
+* get class timetable and information with class code (By reading class info in JSON format)
 
 Admin Use
 * create general channel (admin only)
