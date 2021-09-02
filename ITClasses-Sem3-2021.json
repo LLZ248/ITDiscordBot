@@ -3,8 +3,8 @@
 "name":"Computer Technology Essentials",
 "lecturer":"Mr Steven Yong Yik Loong",
 "slots":[
-{"mode":"Tutorial","day":"TUESDAY","time":"2.00pm-4.00pm"},
-{"mode":"Lecture","day":"WEDNESDAY","time":"2.00pm-2.00pm"}
+{"mode":"Tutorial","day":"TUESDAY","time":"1.00pm-3.00pm"},
+{"mode":"Lecture","day":"WEDNESDAY","time":"2.00pm-5.00pm"}
 ]}
 ,
 {
@@ -31,7 +31,8 @@
 "lecturer":"Dr Okta Nurika",
 "slots":[
 {"mode":"DIP222-Tutorial","day":"MONDAY","time":"8.00am-10.00am"},
-{"mode":"BDA100-Tutorial","day":"MONDAY","time":"10.00am-12.pm"},
+{"mode":"BDA100-Tutorial-A","day":"MONDAY","time":"10.00am-12.00pm"},
+{"mode":"BDA100-Tutorial-B","day":"MONDAY","time":"2.30pm-4.30pm"},
 {"mode":"Lecture","day":"FRIDAY","time":"9.00am-12.00pm"}
 ]}
 ,
@@ -50,8 +51,8 @@
 "name":"Introduction to Information Technology/Introduction to Computer Architecture",
 "lecturer":"Mr Koon Kim Peh",
 "slots":[
+{"mode":"DIP200/DIP105-Tutorial","day":"MONDAY","time":"2.00pm-4.00pm"},
 {"mode":"BIT101-Tutorial","day":"THURSDAY","time":"12.00pm-2.00pm"},
-{"mode":"DIP200/DIP105-Tutorial","day":"THURSDAY","time":"2.00pm-4.00pm"},
 {"mode":"Lecture","day":"FRIDAY","time":"2.30pm-5.30pm"}
 ]}
 ,
@@ -69,7 +70,7 @@
 "name":"Introduction to Database Systems/Database Concepts and Practices",
 "lecturer":"Ms Ng Shu Min",
 "slots":[
-{"mode":"BIT103-Tutorial","day":"TUESDAY","time":"2.00pm-4.00pm"},
+{"mode":"BIT103-Tutorial-A","day":"MONDAY","time":"12.00pm-2.00pm"},
 {"mode":"DIP203-Tutorial","day":"TUESDAY","time":"4.00pm-6.00pm"},
 {"mode":"Lecture","day":"WEDNESDAY","time":"2.00pm-5.00pm"}
 ]}
@@ -89,7 +90,8 @@
 "name":"Data Communications and Networking/Data Communications",
 "lecturer":"Mr Koon Kim Peh",
 "slots":[
-{"mode":"Tutorial","day":"WEDNESDAY","time":"8.00am-10.00am"},
+{"mode":"Tutorial-A","day":"WEDNESDAY","time":"8.00am-10.00am"},
+{"mode":"Tutorial-B","day":"WEDNESDAY","time":"10.00am-12.00pm"},
 {"mode":"Lecture","day":"THURSDAY","time":"8.00am-11.00am"}
 ]}
 ,
@@ -100,7 +102,7 @@
 "slots":[
 {"mode":"BIT108-Tutorial","day":"MONDAY","time":"8.00am-10.00am"},
 {"mode":"DIP201-Tutorial","day":"MONDAY","time":"10.00am-12.00pm"},
-{"mode":"Lecture","day":"TUESDAY","time":"2.00pm-5.00pm"}
+{"mode":"Lecture","day":"TUESDAY","time":"12.00pm-3.00pm"}
 ]}
 ,
 {
@@ -223,8 +225,8 @@
 "name":"Internet of Things",
 "lecturer":"Mr Navid",
 "slots":[
-{"mode":"Tutorial","day":"THURSDAY","time":"11.00am-1.00pm"},
-{"mode":"Lecture","day":"FRIDAY","time":"2.30pm-5.30pm"}
+{"mode":"Lecture","day":"THURSDAY","time":"10.00am-1.00pm"},
+{"mode":"Tutorial","day":"FRIDAY","time":"3.30pm-5.30pm"}
 ]}
 ,
 {
@@ -242,7 +244,7 @@
 "lecturer":"Mr Herison Surbakti",
 "slots":[
 {"mode":"Lecture","day":"WEDNESDAY","time":"2.00pm-5.00pm"},
-{"mode":"Tutorial","day":"THURSDAY","time":"9.00am-11.00am"}
+{"mode":"Tutorial","day":"THURSDAY","time":"8.00am-10.00am"}
 ]}
 ,
 {
@@ -269,13 +271,6 @@
 "slots":[
 {"mode":"Tutorial","day":"MONDAY","time":"10.30am-12.00pm"},
 {"mode":"Lecture","day":"WEDNESDAY","time":"2.00pm-5.00pm"}
-]}
-,
-{
-"code":"BMC201",
-"name":"Mobile Communications",
-"lecturer":"Mr Navid",
-"slots":[
 ]}
 ,
 {
