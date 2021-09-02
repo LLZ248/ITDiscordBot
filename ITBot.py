@@ -83,7 +83,7 @@ class MiscCog(commands.Cog, name="Misc Category"):
 
 
 class ClassCog(commands.Cog, name="Class Category"):
-    @commands.command(name='findClassWithCode', help='Find the class timetable and information with class code')
+    @commands.command(name='findClassWithCode', help='Find the class timetable and information with class code. Last Updated:2/9/2021')
     async def findClassWithCode(self, ctx, classCode: str = "NA"):
         if classCode == "NA":
             await ctx.send(f"Please give a class code. EG:BIT200")
